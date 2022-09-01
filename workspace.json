@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "customer-services": "apps/customer-services"
+    "currency-web-socket": "apps/currency-web-socket",
+    "customer-services": "apps/customer-services",
+    "dao": "libs/dao"
   }
 }
